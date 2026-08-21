@@ -13,9 +13,11 @@ Develop a machine learning model to assess customer credit risk.
 
 ## 📈 Results
 
-Model	          ROC-AUC	    F1 Score
-CatBoost	        0.9177	    0.5431
-XGBoost	          0.8973	    0.3846
-Random Forest	    0.8875	    0.3165
-Decision Tree	    0.8522	    0.3265
-Best model:      CatBoost
+| Model | ROC-AUC | F1 Score |
+|-------|---------|----------|
+| CatBoost | **0.9177** | **0.5431** |
+| XGBoost | 0.8973 | 0.3846 |
+| Random Forest | 0.8875 | 0.3165 |
+| Decision Tree | 0.8522 | 0.3265 |
+
+**Best Model**: CatBoost 🏆
